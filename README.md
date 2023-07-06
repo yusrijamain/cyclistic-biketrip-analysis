@@ -14,4 +14,3 @@ The full exploring and cleaning process can be found [here](data-exploration-cle
 
 ## Findings
 
-![alt text](https://drive.google.com/file/d/1ioATWWtHPfZ2GjdBqVjZkL45ZdSY59PT/view?usp=drive_link)
