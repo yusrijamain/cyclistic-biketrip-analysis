@@ -13,4 +13,5 @@ The City of Chicago owns the historical trip data under the [agreement](https://
 * The full report on this case study can be found here (the link will be added soon)
 * The full queries exploring and cleaning process can be found [here](data-exploration-cleaning.sql) while the analysis process can be found [here](data-analysis.sql)
 * The interactive dashboard created for this project can be found [here](https://public.tableau.com/views/CyclisticTripAnalysis_16866751481060/Cyclistic?:language=en-GB&:display_count=n&:origin=viz_share_link)
-![Cyclistic Dashboard](https://github.com/yusrijamain/cyclistic-biketrip-analysis/assets/129306959/604116fc-ea2d-4987-bb22-ac6f98e08ab5)
+
+![Cyclistic Dashboard](https://github.com/yusrijamain/cyclistic-biketrip-analysis/assets/129306959/5c49b5a2-1bfa-4fb3-8642-0f548fbdffde)
