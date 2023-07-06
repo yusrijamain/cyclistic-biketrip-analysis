@@ -9,8 +9,8 @@ Cyclistic is a bike-sharing company based in Chicago that launched in the year 2
 ## About The Data
 The City of Chicago owns the historical trip data under the [agreement](https://ride.divvybikes.com/data-license-agreement) with Lyft Bikes and Scooters, LLC to provide the data available to the public in order to support bicycling as a means of alternative transportation in the city. For the purpose of this case study, the datasets will be used to answer business questions for a fictional company called Cyclistic as its data elements are appropriate, complete, and accurate in order to gain data-driven insights to solve problems from the business questions. The datasets that were used in this project can be found [here](https://divvy-tripdata.s3.amazonaws.com/index.html)
 
-## Cleaning and Analysis
-The full exploring and cleaning process can be found [here](data-exploration-cleaning.sql) while the analysis process can be found [here](data-analysis.sql)
-
-## Findings
-
+## The Analysis Process
+* The full case can be found here (insert link to website)
+* The full queries exploring and cleaning process can be found [here](data-exploration-cleaning.sql) while the analysis process can be found [here](data-analysis.sql)
+* The interactive dashboard created for this project can be found [here](https://public.tableau.com/views/CyclisticTripAnalysis_16866751481060/Cyclistic?:language=en-GB&:display_count=n&:origin=viz_share_link)
+![Cyclistic Dashboard](https://github.com/yusrijamain/cyclistic-biketrip-analysis/assets/129306959/604116fc-ea2d-4987-bb22-ac6f98e08ab5)
